@@ -1,3 +1,3 @@
 # IntroToLLM
 
-Here are slides for introduction of LLM and its applications.
+Here are slides for the introduction of LLM and its applications in daily work.
